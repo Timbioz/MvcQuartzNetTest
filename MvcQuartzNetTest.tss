@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Services\AnoterService.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\App_Start\AutofacConfig.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Jobs\DataJob.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Services\DataService.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Scheduler\DefaultScheduler.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Controllers\HomeController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>MvcQuartzNetTest\MvcQuartzNetTest.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Object Browser</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Models\SerializationTestModel.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\App_Data\tables_sqlServer.sql</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\Timbioz\Documents\Visual Studio 2015\Projects\MvcQuartzNetTest\MvcQuartzNetTest\Web.config</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
